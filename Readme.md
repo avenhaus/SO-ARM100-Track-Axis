@@ -3,9 +3,6 @@
 
 <p align="center"><img src="./Images/Arm.jpg" width="600"></p>
 
-<p align="center"><img src="./Images/Carriage_Fast.jpg" width="400"></p>
-
-
 ## Summary
 This project is related to the [SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) robot arm and [LeRobot](https://github.com/huggingface/lerobot)
 
@@ -51,6 +48,7 @@ The servo can give current feedback. This is used to home the axis and find the 
 Video: https://youtu.be/PuqxYcexV3M
 
 <img src="./Images/Controller.jpg" width="400">
+<img src="./Images/Carriage_Fast.jpg" width="400">
 <img src="./Images/Carriage_Bottom.jpg" width="400">
 <img src="./Images/Track.jpg" width="400">
 <img src="./Images/Servo.jpg" width="400">
