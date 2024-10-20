@@ -18,7 +18,7 @@ The carriage comes in 2 Versions:
 - 8 x 624 Bearing (ID: 4mm / OD: 13mm / H: 5mm)
 - 8 x M4 10mm or 12mm machine screws for bearings
 - 6 x M3 6mm or 8mm screws for motor bracket
-- 4 x drywall screws to mount arm to slide (holes are 3.2mm)
+- 4 x M4 20mm bolts and hex nuts to mount arm to slide (there are also versions with 3.2mm holes for drywall screws)
 - M3 wood screws to mount rails to wooden base
 
 The "Fast" version with additional gear additionally needs: 
