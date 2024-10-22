@@ -42,13 +42,15 @@ The servo can give current feedback. This is used to home the axis and find the 
 - Move to 10% and 90% of track length
 - Move to middle
 
+## Video
 
-# Images
+**https://youtu.be/PuqxYcexV3M**
 
-Video: https://youtu.be/PuqxYcexV3M
+## Images
 
-<img src="./Images/Controller.jpg" width="400">
-<img src="./Images/Carriage_Fast.jpg" width="400">
-<img src="./Images/Carriage_Bottom.jpg" width="400">
-<img src="./Images/Track.jpg" width="400">
-<img src="./Images/Servo.jpg" width="400">
+<img src="./Images/Render.png" width="600">
+<img src="./Images/Controller.jpg" width="600">
+<img src="./Images/Carriage_Fast.jpg" width="600">
+<img src="./Images/Carriage_Bottom.jpg" width="600">
+<img src="./Images/Track.jpg" width="600">
+<img src="./Images/Servo.jpg" width="600">
